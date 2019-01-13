@@ -1,9 +1,7 @@
 
 package game;
 import java.util.ArrayList;
-import java.util.HashMap;
 
-import javafx.application.Application;
 import javafx.stage.Stage;
 import javafx.scene.Scene;
 
@@ -13,7 +11,6 @@ import javafx.scene.control.Label;
 import javafx.scene.layout.GridPane;
 import javafx.scene.text.Font;
 import javafx.scene.Node;
-import javafx.scene.layout.HBox;
 import javafx.geometry.Insets;
 
 public class GameLogic {
