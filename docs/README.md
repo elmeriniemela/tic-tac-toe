@@ -1,3 +1,3 @@
 # Tic-Tac-Toe Game
 
-![alt text](tic-tac-toe.png)
+![alt text](https://raw.githubusercontent.com/thecodebasesite/tic-tac-toe/master/docs/tic-tac-toe.png)
